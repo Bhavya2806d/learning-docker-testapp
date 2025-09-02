@@ -1,2 +1,1 @@
-# learning-docker-testapp
-Developing with Docker
+# docker-testapp
